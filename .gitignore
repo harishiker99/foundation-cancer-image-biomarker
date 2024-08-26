@@ -635,3 +635,6 @@ data/csvs/
 ./models
 ./outputs
 docs/reference/*
+
+*.csv
+*.nii.gz
